@@ -1,4 +1,4 @@
-##A Content based Movie Recommendation System using cosine similarity algorithm.
+## A Content based Movie Recommendation System using cosine similarity algorithm.
 
 Code: https://github.com/styxOO7/Movie-Recommender-System
 Link: https://share.streamlit.io/styxoo7/movie_recommender_sys/app.py
