@@ -37,10 +37,11 @@ The Movie Recommender System is built using the following technologies: </br>
 
 </br>
 
-
 ## 📽️ Demo:
-You can see the iConnect Web App in action by visiting the following link: http://ree1e9.pythonanywhere.com/ </br>
-* Username: test123 </br>
-* Password: test123 </br>
-* Room: test123 </br>
+You can see the Project demo below: </br>
+
+
+https://github.com/styxOO7/movie_recommender_sys/assets/85895343/13835641-d85b-4cf5-ac25-f002e2e52d5f
+
+
 
